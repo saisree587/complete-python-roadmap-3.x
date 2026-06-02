@@ -1,0 +1,126 @@
+1. Built-in Data Types
+
+Python provides built-in data types:
+
+Numeric Types
+int → whole numbers
+float → decimal numbers
+complex → complex numbers
+bool → True/False
+Sequence Types
+list → mutable ordered collection
+tuple → immutable ordered collection
+range → sequence of numbers
+str → text data
+Set Types
+set → unordered unique elements
+frozenset → immutable set
+Mapping Type
+dict → key-value pairs
+Binary Types
+bytes
+bytearray
+memoryview
+Special Type
+None (NoneType)
+
+2. Strings (str methods)
+
+Common string operations:
+
+Case: lower(), upper(), title(), capitalize()
+Cleanup: strip(), lstrip(), rstrip()
+Split/Join: split(), join()
+Replace: replace()
+Search: find(), index(), count()
+Check: startswith(), endswith()
+Validation: isalpha(), isdigit(), isalnum()
+Formatting: format()
+
+3. List Methods
+append(), extend(), insert()
+remove(), pop(), clear()
+index(), count()
+sort(), reverse()
+copy()
+
+4. Tuple Methods
+count()
+index()
+
+5. Dictionary Methods
+clear(), copy()
+fromkeys(), get()
+items(), keys(), values()
+pop(), popitem()
+setdefault(), update()
+
+6. Set Methods
+add(), update()
+remove(), discard(), pop()
+union(), intersection(), difference()
+symmetric_difference()
+issubset(), issuperset(), isdisjoint()
+copy()
+
+7. Control Flow
+if / elif / else
+for loop
+while loop
+break, continue, pass
+
+8. Functions
+def, return
+Arguments: positional, keyword, default
+*args, **kwargs
+lambda
+recursion
+
+9. File Handling
+open()
+modes: r, w, a, x
+read(), readline(), readlines()
+write(), writelines()
+with open()
+
+10. Exception Handling
+try, except, finally, else
+raise
+Common errors:
+ValueError
+TypeError
+IndexError
+KeyError
+ZeroDivisionError
+
+11. OOP Concepts
+class, object
+__init__
+inheritance
+polymorphism
+encapsulation
+abstraction
+self, super()
+
+12. Built-in Functions
+print, input, type
+len, range
+sum, min, max
+sorted
+map, filter, zip
+enumerate
+abs, pow, round
+
+13. Modules
+math
+random
+datetime
+os
+sys
+json
+re
+
+14. Comprehensions
+List comprehension
+Dictionary comprehension
+Set comprehension
